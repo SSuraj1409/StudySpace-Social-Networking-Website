@@ -39,45 +39,34 @@ Key features include:
 
 <div align="center">
 
-**Home Page (Login/Register):**  
-<br/>  
+<h3>Home Page (Login/Register):</h3>  
 <img src="https://i.imgur.com/9b9E9Ut.png" width="80%" alt="StudySpace Home Page"/>
 
 <br/><br/>
 
-**Login Form Validation:**  
-<br/>  
+<h3>Login Page:</h3>  
 <img src="https://i.imgur.com/vrZNUuC.png" width="80%" alt="Login Validation"/>
 
 <br/><br/>
 
-**Forum Selection by Subject:**  
-<br/>  
-<img src="https://i.imgur.com/YourImage3.png" width="80%" alt="Subject Forum"/>
+<h3>Register Page:</h3>  
+<img src="https://i.imgur.com/Lhd7dbX.png" width="80%" alt="Subject Forum"/>
 
 <br/><br/>
 
-**Posting a Question with Image Upload:**  
-<br/>  
-<img src="https://i.imgur.com/YourImage4.png" width="80%" alt="Post Question"/>
+<h3>Home page after logging in:</h3>  
+<img src="https://i.imgur.com/7TzuQTY.png" width="80%" alt="Post Question"/>
 
 <br/><br/>
 
-**Searching and Sorting Forum Posts:**  
-<br/>  
-<img src="https://i.imgur.com/YourImage5.png" width="80%" alt="Search & Sort"/>
+<h3>Forum Page:</h3>  
+<img src="https://i.imgur.com/lwZTiP8.png" width="80%" alt="Search & Sort"/>
 
-<br/><br/>
+<img src="https://i.imgur.com/39h62Io.png" width="80%" alt="Dictionary Popup"/>
 
-**Highlight Text for Definitions & Synonyms:**  
-<br/>  
-<img src="https://i.imgur.com/YourImage6.png" width="80%" alt="Dictionary Popup"/>
+<img src="https://i.imgur.com/T79wIiK.png" width="80%" alt="Dictionary Popup"/>
 
-<br/><br/>
-
-**Follow/Unfollow Functionality on Friends Page:**  
-<br/>  
-<img src="https://i.imgur.com/YourImage7.png" width="80%" alt="Follow Unfollow"/>
+<img src="https://i.imgur.com/MTTLer7.png" width="80%" alt="Follow Unfollow"/>
 
 </div>
 
