@@ -155,5 +155,5 @@ on the navbar for the user to view easily.
 
 ---
 
-## 📁 Project Structure Overview
+## **🔒 Full source code available in a private repository. Please contact me for access.**
 
